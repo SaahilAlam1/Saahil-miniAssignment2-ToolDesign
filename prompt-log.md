@@ -1,15 +1,3 @@
-# Prompt Log
-
-Paste your **complete chat history with the AI** for Mini-Assignment 2 into this file.
-
-Include:
-- All prompts you sent.
-- All AI responses you received.
-
-You can copy the full conversation from your chat interface and append it below this line.
-
----
-
 ## Initial Prompt
 Design and implement one custom tool for an AI agent, demonstrating understanding of tool architecture and integration.
 Requirements
