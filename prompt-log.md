@@ -137,8 +137,17 @@ python /Users/saahilalam/Documents/IIMT3688/Assignment2-ToolDesign/demo.py
  'top_keyphrases': [],
  'top_keywords': []}
 
+## Second Prompt
+does my script use any AI API calls
+
+## AI Response
 AI API calls?
 No. Your scripts (tool.py, demo.py) do not make any AI API calls (no OpenAI/Anthropic SDK usage, no HTTP/network calls). They run entirely locally using Python’s standard library.
+
+## Third Prompt
+can you add more sophisticated kekyword extraction
+
+## AI Response
 Upgraded “more sophisticated” keyword extraction
 Yes — I added RAKE-style multi-word keyphrase extraction in tool.py.
 •	New output field: top_keyphrases (list of {phrase, score, count})
